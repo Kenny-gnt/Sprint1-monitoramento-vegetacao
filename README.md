@@ -3,9 +3,13 @@ Sistema de monitoramento e priorização de vegetação em rodovias desenvolvido
 
 # Integrantes 👤
 Ana Luiza Santos Bertão RM 563171
+
 Gisleine Muñoz Ticona RM 563804
+
 Larissa Machado Silva RM564168
+
 Raira de Teves Costa RM RM564850
+
 Sofia Bill Franken RM RM562767
 
 
