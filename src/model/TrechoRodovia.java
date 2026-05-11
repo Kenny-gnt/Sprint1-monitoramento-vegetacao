@@ -73,8 +73,6 @@ public class TrechoRodovia {
 
         if (nivelVegetacao >= 0) {
             this.nivelVegetacao = nivelVegetacao;
-        } else {
-            this.nivelVegetacao = 0;
         }
     }
 
