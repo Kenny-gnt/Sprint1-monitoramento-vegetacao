@@ -6,11 +6,11 @@ Ana Luiza Santos Bertão RM 563171
 
 Gisleine Muñoz Ticona RM 563804
 
-Larissa Machado Silva RM564168
+Larissa Machado Silva RM 564168
 
-Raira de Teves Costa RM RM564850
+Raira de Teves Costa RM 564850
 
-Sofia Bill Franken RM RM562767
+Sofia Bill Franken RM 562767
 
 
 # Sprint 1 - Monitoramento de Vegetação em Rodovias
